@@ -1,4 +1,6 @@
-making branch of master branch
+making branch of master branch 
+I am in branch name spectrum
+
 color in rainbow
 red
 green
