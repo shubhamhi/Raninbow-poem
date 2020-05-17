@@ -3,6 +3,8 @@ color in rainbow
 red
 green
 black
+purple
 yellow
+indigo
 orange
 these are colour of rainbow
