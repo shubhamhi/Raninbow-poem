@@ -1,5 +1,7 @@
 color in rainbow
 red
 green
+black
 yellow
+orange
 these are colour of rainbow
